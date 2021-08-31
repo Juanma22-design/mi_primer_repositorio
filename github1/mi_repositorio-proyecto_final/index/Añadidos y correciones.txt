@@ -1,0 +1,6 @@
+lista de añadidos y correciones de la pagina web.
+
+correcion en la dimension de  las fotos de la pagina principal 
+añadido de pagina con error 404 con boton funcional para volver al inicio 
+aplicacion de la metaetiqueta Description en la pagina principal.
+aplicacion de titulos para cada una de las paginas del sitio web.
